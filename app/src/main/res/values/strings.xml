@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cart_page</string>
+    <string name="my_preferences">SharedPreferences</string>
+
+</resources>
